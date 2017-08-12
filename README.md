@@ -1,3 +1,9 @@
+#goldenpotato22 README
+[![Travis](https://img.shields.io/travis/goldenpotato22/RoleplayCraft-Mod.svg?style=flat-square)]()
+##What is this?
+This is a mod that has useless items and blocks that could be used for roleplay as decorations.
+
+#Forge README
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
